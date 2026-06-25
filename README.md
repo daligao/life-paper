@@ -79,4 +79,6 @@ All three tools share the same 900-square grid metaphor — different angles on 
 
 Built by a non-technical Chinese parent using AI as a development partner — zero coding background. The tools, concepts, 7 lenses, Collective Memorial, Regret Shield — all human ideas. The AI wrote the code.
 
-The companion blog post was drafted by AI based on my notes, and is [labeled as such](https://ordinarymantrying.com/famous-lives-900-square-grid-life-visualization/). Building in public means being honest about the process. This is the process.
+The companion blog post was drafted by AI based on my notes, and is [labeled as such](https://ordinarymantrying.com/famous-lives-900-square-grid-life-visualization/).
+
+**Content labeling policy:** Blog posts where AI wrote the text for SEO purposes carry "(AI Generated)" in the title. Posts where the human author prepared the content and ideas do not carry that label. Featured images are optional for SEO posts. Building in public means being honest about the process. This is the process.
